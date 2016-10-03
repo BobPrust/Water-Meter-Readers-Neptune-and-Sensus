@@ -9,3 +9,6 @@ The request for data can be;
 3. All data last 31 days, 
 4. Once a day all data.
 5. All data
+
+The ProRead data format was the idea of Jim see http://jimlaurwilliams.org/wordpress/?p=3048
+and was correct
