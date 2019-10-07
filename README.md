@@ -1,4 +1,4 @@
-# Neptune-E-Coder or Pro Read Water meter reader
+# Neptune-E-Coder or Pro Read or Sensus SRII Water meter reader
 Separate programs (1. e-coder 2. ProRead)
  Arduino Water Meter Reader and Ethernet Server.
 Every hour the Arduino queries the E-Coder or Pro read water meter for usage and writes the result to an SD card.
