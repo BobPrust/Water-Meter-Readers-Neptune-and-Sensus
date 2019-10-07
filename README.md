@@ -10,3 +10,5 @@ The request for data can be;
 4. Once a day all data.
 5. All data
 
+The Sensus SRII water meter is read by a ESP8266 controller. The controller is connected to a standard PC.
+The power is supplied by a USB connector. The Output is read by an arduino IDE.
